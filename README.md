@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I'm Marvin 👋</h1>
+<h1 align="center">Hello, I'm Marvin 👐</h1>
 
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🦅  You can reach me at: **marvin@marvin.com**
+- You can reach me at: **marvin@marvin.com**
 
 <p align="center">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> 
