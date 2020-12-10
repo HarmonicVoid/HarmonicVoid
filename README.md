@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm Marvin 👐</h1>
+<h1 align="center">Hello, I'm Marvin!</h1>
 
-<h3 align="center">I am a Software Engineer</h3>
+<h3 align="center">I am a Freelance Software Developer</h3>
 
 - You can reach me at: **mb@marvinbolanos.dev**
 
