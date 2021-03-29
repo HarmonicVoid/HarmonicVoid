@@ -11,4 +11,3 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarmonicVoid&show_icons=true" /></p>
