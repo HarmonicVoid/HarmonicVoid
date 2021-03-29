@@ -5,7 +5,7 @@
 <h3 align="center">I am a self taught Software Developer. Check out my very first portfolio website --> <a href="https://marvinbolanos.dev/">Click me</a>😬
 </h3>
 
-<h3 align="center">Coding, biking, and hiking is my current life!</h3>
+<h3 align="center">Coding, biking, and hiking are my favorite hobbies!</h3>
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 </p>
