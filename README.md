@@ -9,7 +9,7 @@
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 </p>
-<h3 align="center">Coding, biking, and hiking are my favorite hobbies!</h3>
+<h3 align="center">Coding, biking, hiking and guitar playing are my favorite hobbies!</h3>
 
 
 <br/>
