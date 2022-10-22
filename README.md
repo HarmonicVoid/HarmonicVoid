@@ -6,14 +6,10 @@
 <h4 align="center">I have three cats named Remus, Momo, and Bella.</h4>
 <h4 align="center">Funny story, I went over to Big Bear over the weekend. I come back to find that my cats broke my monitor! 😼</h4>
 
-
-
-
-
-<h3 align="center">Coding, biking, and hiking are my favorite hobbies!</h3>
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 </p>
+<h3 align="center">Coding, biking, and hiking are my favorite hobbies!</h3>
 
 
 <br/>
