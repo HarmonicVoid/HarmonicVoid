@@ -1,4 +1,4 @@
-<h1 align="center">Hello, welome!</h1>
+<h1 align="center">Hello, welcome!</h1>
 <h2 align="center">You can reach me at: mb@marvinbolanos.dev
 </h2>
 
