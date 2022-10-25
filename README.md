@@ -9,5 +9,5 @@
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 </p>
 
-<h2 align="center">You can reach me at mb@marvinbolanos.dev
+<h2 align="center">Contact: mb@marvinbolanos.dev
 </h2>
