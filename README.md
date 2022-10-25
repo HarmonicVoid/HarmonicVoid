@@ -1,7 +1,7 @@
 <h1 align="center">Hello, welcome!</h1>
 
 
-<h2 align="center">I am a self taught Software Developer</h2>
+<h2 align="center">I am a self-taught software developer</h2>
 
 <h3 align="center">Own three cats named Remus, Momo, and Bella 😼</h3>
 
