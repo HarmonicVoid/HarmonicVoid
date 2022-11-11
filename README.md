@@ -5,9 +5,13 @@
 
 <h3 align="center">Own three cats named Remus, Momo, and Bella 😼</h3>
 
+
 <p align="center">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 </p>
+
+<h3 align="center">enjoy playing the electric guitar 🎸 </h3>
+
 
 <h2 align="center">Contact: mb@marvinbolanos.dev
 </h2>
