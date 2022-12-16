@@ -10,7 +10,7 @@
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
 </p>
 
-<h3 align="center">enjoy playing the electric guitar 🎸 </h3>
+<h3 align="center">I enjoy playing my electric guitar 🎸 </h3>
 
 
 <h2 align="center">Contact: mb@marvinbolanos.dev
