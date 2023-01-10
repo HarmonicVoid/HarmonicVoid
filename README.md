@@ -3,8 +3,22 @@
 
 <h2 align="center">I am a self-taught software developer, please take a look at my projects!</h2>
 
-## Hobbies
-<h3>I enjoy playing the electric guitar 🎸 </h3>
+## Favorite Hobbies
+<ul>
+  <li> Enjoy playing the electric guitar 🎸</li>
+  <p></p>
+  
+  <li> Hiking, being out in nature brings peace to the mind 🌲</li>
+  <p></p>
+  
+  
+  <li> Ice skating, gliding on ICE feels amazing 🏒</li>
+  <p></p>
+  
+  <li> Love going on bike rides 🚵🏻‍♂️</li>
+  <p></p>
+
+</ul>
 
 <h3 align="center">Contact: mb@marvinbolanos.dev
 </h3>
