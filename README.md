@@ -5,7 +5,11 @@
 
 ## Favorite Hobbies
 <ul>
-  <li> Enjoy playing the electric guitar 🎸</li>
+  
+  <li> Coding, if it was not obious enough 👨‍💻</li>
+  <p></p>
+  
+  <li> Playing the electric guitar 🎸</li>
   <p></p>
   
   <li> Hiking, being out in nature brings peace to the mind 🌲</li>
