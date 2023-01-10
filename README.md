@@ -1,16 +1,9 @@
 <h1 align="center">Hello, welcome!</h1>
 
 
-<h2 align="center">I am a self-taught software developer</h2>
+<h2 align="center">I am a self-taught software developer, please take a look at my projects!</h2>
 
-<h3 align="center">Own three cats named Remus, Momo, and Bella 😼</h3>
-
-
-<p align="center">
-   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
-</p>
-
-<h3 align="center">I enjoy playing my electric guitar 🎸 </h3>
+<h3 align="center">I enjoy playing the electric guitar 🎸 </h3>
 
 
 <h2 align="center">Contact: mb@marvinbolanos.dev
