@@ -6,7 +6,7 @@
 ## Favorite Hobbies
 <ul>
   
-  <li> Coding, if it was not obious enough 👨‍💻</li>
+  <li> Coding, if not obious enough 👨‍💻</li>
   <p></p>
   
   <li> Playing the electric guitar 🎸</li>
