@@ -19,7 +19,7 @@
   <li> Ice skating, gliding on ICE feels amazing 🏒</li>
   <p></p>
   
-  <li> Love going on bike rides 🚵🏻‍♂️</li>
+  <li> Bike rides 🚵🏻‍♂️</li>
   <p></p>
 
 </ul>
