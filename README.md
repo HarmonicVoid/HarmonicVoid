@@ -1,7 +1,7 @@
 <h1 align="center">Hello, welcome!</h1>
 
 
-<h2 align="center">I am a self-taught software developer, please take a look at my repository</h2>
+<h2 align="center">I am a self-taught software developer, please take a look at my repositories</h2>
 
 ## Favorite Hobbies
 <ul>
