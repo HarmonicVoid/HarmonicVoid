@@ -23,5 +23,5 @@
 </ul>
 
 
-<h3 href="www.linkedin.com/in/marvin-bolanos-99b523187" align="center">Contact me @ Linkedin!
-</h3>
+<a href="www.linkedin.com/in/marvin-bolanos-99b523187">Contact me @ Linkedin!</a>
+
