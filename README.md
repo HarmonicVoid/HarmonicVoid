@@ -22,5 +22,6 @@
 
 </ul>
 
-<h3 align="center">Contact: mb@marvinbolanos.dev
+
+<h3 href="www.linkedin.com/in/marvin-bolanos-99b523187" align="center">Contact me @ Linkedin!
 </h3>
