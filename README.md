@@ -22,6 +22,6 @@
 
 </ul>
 
-[Contact me @ Linkedin!](www.linkedin.com/in/marvin-bolanos-99b523187)
+<h3>Contact me via LinkedIn</h3>
 
 
