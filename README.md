@@ -22,6 +22,6 @@
 
 </ul>
 
+[Contact me @ Linkedin!](www.linkedin.com/in/marvin-bolanos-99b523187)
 
-<a href="www.linkedin.com/in/marvin-bolanos-99b523187">Contact me @ Linkedin!</a>
 
