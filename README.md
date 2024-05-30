@@ -22,6 +22,6 @@
 
 </ul>
 
-<h3>Contact me via LinkedIn</h3>
+<h3>Please Contact me via LinkedIn 😃</h3>
 
 
