@@ -1,5 +1,5 @@
 <h1 align="center">Hello, welcome to my GitHub!</h1>
-<h2 align="center">I'm a self-taught software developer, take a look at my repositories!</h2>
+<h2 align="center">I am a self-taught software developer specializing in iOS development. Passionate about creating seamless user experiences and constantly learning modern development practices!</h2>
 
 ## Favorite Hobbies
 <ul>
