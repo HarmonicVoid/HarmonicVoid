@@ -1,4 +1,4 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">Hello, welcome to my GitHub!</h1>
 <h2 align="center">I'm a self-taught software developer, take a look at my repositories!</h2>
 
 ## Favorite Hobbies
